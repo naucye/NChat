@@ -10,7 +10,7 @@ Cli chat service, support multi-room chat.
 使用该项目，还需要安装node环境！
 
 ``` bash
-git clone https://github.com/naucye/NChat.git
+git clone https://github.com/naucye/NChat.git NChat
 
 cd ./NChat
 
@@ -99,7 +99,9 @@ sh uninstall.sh
 4.  增加加入房间密码
 5.  文件传输（目前只支持小文件，普通的文本）
 6.  增加快速安装脚本，以及添加2个二进制文件
-
+1.1.3(2022-8-27)
+1.修复client端bug
+2.新增自动化测试
 </details>
 
 ## 关于
